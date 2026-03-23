@@ -1,0 +1,30 @@
+@media (min-width: 768px) {
+    
+    .container {
+        display: flex;
+        flex-direction: row;
+        width: 37.5rem;
+ 
+    }
+
+    .container .product img {
+        width: 18.6rem;
+        border-top-left-radius: 0.5rem;
+        border-bottom-left-radius: 0.5rem;
+        border-top-right-radius: 0;  
+
+    }
+
+    .container .container-content {
+        padding: 0.2rem 2rem 0.7rem;
+        
+    }
+
+    .introduction .description {
+        margin-bottom: .5rem;
+    }
+
+
+
+
+}
